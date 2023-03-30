@@ -1,6 +1,6 @@
 {
   "id": "001"
-  "severity": "Blocker
+  "severity": "Blocker",
   "priority": "ASAP",
   "title": "В форме оформления заказа, этапе оплаты покупок неактивна кнопка 'Оплатить'",
   "steps":[
