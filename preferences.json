@@ -1,10 +1,9 @@
 	{
-		"movie": "Papilon",
-		"sitcom": "Friends",
-		"food": "peper steak",
-		"season": "winter",
-		"country": "Indonesia"
-
+	"favorite_movie": "Papilon",
+	"favorite_tv_show": "Friends",
+	"favorite_food": "peper steak",
+	"favorite_season": "winter",
+	"favorite_travel_destination": "Indonesia"
 	}
 
 
